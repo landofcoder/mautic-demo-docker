@@ -6,6 +6,14 @@ Marketing automation has historically been difficult to implement within organis
 
 Open source means more than open code. Open source provides equality for all and a chance for everyone to improve.
 
+## Setup
+
+- Setup Docker 
+- Setup Docker Compose
+- Setup Treafik Reverse Proxy voi Docker: https://github.com/landofcoder/treafik-docker-compose
+- Run command to setup Mautic Docker: ``docker-compose up -d``
+- Go to url on browser: http://mautic-service.docker.localhost
+
 ## Download in Repo
 
 https://github.com/mautic/mautic
