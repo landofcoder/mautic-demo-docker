@@ -8,8 +8,8 @@ Open source means more than open code. Open source provides equality for all and
 
 ## Setup
 
-- Setup Docker 
-- Setup Docker Compose
+- Setup Docker [Setup Doc](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+- Setup Docker Compose [Setup Doc](https://phoenixnap.com/kb/install-docker-compose-on-ubuntu-20-04)
 - Setup Treafik Reverse Proxy voi Docker: https://github.com/landofcoder/treafik-docker-compose
 - Run command to setup Mautic Docker: ``docker-compose up -d``
 - Go to url on browser: http://mautic-service.docker.localhost
